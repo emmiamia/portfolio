@@ -2,6 +2,7 @@ import { Route, Routes, useLocation } from 'react-router-dom';
 import { useEffect } from 'react';
 import Landing from './pages/Landing.jsx';
 import Home from './pages/Home.jsx';
+import About from './pages/About.jsx';
 import NourishSteps from './pages/NourishSteps.jsx';
 import TripEasy from './pages/TripEasy.jsx';
 import WorkUp from './pages/WorkUp.jsx';
