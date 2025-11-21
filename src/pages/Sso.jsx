@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import ssoImg from '../assets/images/sso.png';
+import ssoImg from '../assets/images/SSO.png';
 import sso1 from '../assets/images/sso1.png';
 import journey from '../assets/images/journey.png';
 import journey2 from '../assets/images/journey2.png';

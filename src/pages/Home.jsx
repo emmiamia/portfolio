@@ -1,7 +1,7 @@
 import { NavLink, Link } from 'react-router-dom';
 import nourishImg from '../assets/images/norish.png';
 import tripImg from '../assets/images/tripeasy.png';
-import ssoImg from '../assets/images/sso.png';
+import ssoImg from '../assets/images/SSO.png';
 import workbanner from '../assets/images/workbanner.png';
 
 import '../App.css';
