@@ -22,6 +22,9 @@ function Sso() {
             <NavLink to="/home" end>
               Past Works
             </NavLink>
+            <NavLink to="/about" end>
+              About
+            </NavLink>
             <a href="/resume.pdf" target="_blank" rel="noreferrer">
               Resume
             </a>

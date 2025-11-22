@@ -30,14 +30,13 @@ function Home() {
     },
     {
       id: 3,
-        title: 'WorkUp™',
-      meta: 'Boulder  ·  Cultural  ·  2023',
+      title: 'WorkUp™',
+      meta: 'Frontend Team Lead · UX Engineer · 2024',
       description:
-        'Placeholder copy for a future case study. Short overview that can be replaced with your own text.',
-      image:
-      workbanner,
+        'Led a team of 5 developers to improve user experience and platform reliability for a social video platform serving 80+ routes. Resolved 30+ critical bugs, built 60+ reusable components, and increased reliability by 40%.',
+      image: workbanner,
       align: 'right',
-      tags: ['Systems', 'Web', 'Accessibility'],
+      tags: ['UX Engineering', 'Team Leadership', 'Full-Stack'],
     },
     {
       id: 4,
@@ -61,6 +60,9 @@ function Home() {
           <div className="site-nav__links">
             <NavLink to="/home" end>
               Past Works
+            </NavLink>
+            <NavLink to="/about" end>
+              About
             </NavLink>
             <a href="/resume.pdf" target="_blank" rel="noreferrer">
               Resume

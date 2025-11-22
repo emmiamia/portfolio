@@ -17,6 +17,9 @@ function NourishSteps() {
             <NavLink to="/home" end>
               Past Works
             </NavLink>
+            <NavLink to="/about" end>
+              About
+            </NavLink>
             <a href="/resume.pdf" target="_blank" rel="noreferrer">
               Resume
             </a>
@@ -68,7 +71,7 @@ function NourishSteps() {
               </a>
             </li>
             <li>
-              <a href="https://nourishsteps.app" target="_blank" rel="noreferrer" className="case__meta-link">
+              <a href="https://nourishstepsfront.onrender.com" target="_blank" rel="noreferrer" className="case__meta-link">
                 Visit Live Site →
               </a>
             </li>
@@ -668,7 +671,7 @@ function NourishSteps() {
             Ultimately, this project strengthened my belief that designing for well-being requires not just technical skill, but deep empathy, careful restraint, and a willingness to continually question whether the product is truly helping the user. NourishSteps is only a starting point — and I look forward to exploring how thoughtful design can play a more meaningful role in everyday emotional health.
           </p>
           <div className="case__cta">
-            <a href="https://nourishsteps.app" target="_blank" rel="noreferrer" className="case__cta-link case__cta-link--primary">
+            <a href="https://nourishstepsfront.onrender.com" target="_blank" rel="noreferrer" className="case__cta-link case__cta-link--primary">
               Visit Live Site →
             </a>
             <a href="https://github.com/emmiamia/nourishsteps" target="_blank" rel="noreferrer" className="case__cta-link case__cta-link--secondary">

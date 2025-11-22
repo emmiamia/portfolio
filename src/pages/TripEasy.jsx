@@ -26,6 +26,9 @@ function TripEasy() {
             <NavLink to="/home" end>
               Past Works
             </NavLink>
+            <NavLink to="/about" end>
+              About
+            </NavLink>
             <a href="/resume.pdf" target="_blank" rel="noreferrer">
               Resume
             </a>
@@ -67,12 +70,12 @@ function TripEasy() {
             <li>Role: Product Design · UX Design · Frontend Development · Backend Development</li>
             <li>Stack: React, Node.js, Express, Prisma, User researches</li>
             <li>
-              <a href="https://github.com/emmiamia/tripEasy" target="_blank" rel="noreferrer" className="case__meta-link">
+              <a href="https://github.com/emmiamia/tripEasy" target="_blank" rel="noreferrer" className="case__meta-link" style={{ color: "#0B2B58" }}>
                 View on GitHub →
               </a>
             </li>
             <li>
-              <a href="https://tripeasy.app" target="_blank" rel="noreferrer" className="case__meta-link">
+              <a href="https://tripeasy-ld8b.onrender.com" target="_blank" rel="noreferrer" className="case__meta-link" style={{ color: "#0B2B58" }}>
                 Visit Live Site →
               </a>
             </li>
@@ -443,10 +446,10 @@ function TripEasy() {
             streamline the planning process.
           </p>
           <div className="case__cta">
-            <a href="https://tripeasy.app" target="_blank" rel="noreferrer" className="case__cta-link case__cta-link--primary">
+            <a href="https://tripeasy-ld8b.onrender.com" target="_blank" rel="noreferrer" className="case__cta-link case__cta-link--primary" style={{ backgroundColor: "#0B2B58" }}>
               Visit Live Site →
             </a>
-            <a href="https://github.com/yourusername/tripeasy" target="_blank" rel="noreferrer" className="case__cta-link case__cta-link--secondary">
+            <a href="https://github.com/emmiamia/tripEasy" target="_blank" rel="noreferrer" className="case__cta-link case__cta-link--secondary" style={{color: "#0B2B58", border: "2px solid #0B2B58"}}>
               View Source Code on GitHub →
             </a>
           </div>
